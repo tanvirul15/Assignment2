@@ -1,0 +1,70 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.navbar-nav .nav-link {
+  font-weight: 600 !important;
+  padding: 10px 20px !important;
+}
+.product .card-title {
+  font-weight: bold;
+}
+
+main {
+  padding: 100px 0;
+}
+.heading-primary {
+  font-size: 55px;
+}
+
+.text-primary {
+  color: #a4bc46 !important;
+}
+
+.text-colored {
+  color: #fabe4c;
+}
+
+.py-large {
+  padding-top: 100px 0;
+}
+.bg-creme {
+  background-color: #fffbf0;
+}
+
+.custom-button {
+  font-size: 14px;
+  color: white;
+  background-color: #a3be37;
+  border: none;
+}
+.custom-button:hover {
+  background-color: #c5f30d;
+}
+
+.card-title {
+  font-size: 22px;
+  font-weight: 500;
+}
+.price {
+  font-size: 30px;
+  font-weight: 500;
+  color: #fabe4c;
+}
+
+.subscribe {
+  border-top: 1px solid #eee;
+}
+.subscribe .btn {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.information ul {
+  list-style: none;
+}
+.text-small {
+  font-size: 0.8rem;
+}
+.information a {
+  text-decoration: none;
+  color: white;
+}
